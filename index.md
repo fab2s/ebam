@@ -1,7 +1,3 @@
-# The Epic By All Means Manifesto
-
-> As set of principles to keep in the innovation toolbox
-
 ## Rule 1: Innovation cannot be predicted
 
 > Most of the time, one does not find what he searches, nor he searches for what he finds
@@ -171,7 +167,7 @@
 > Truth is a dance
 
 
-# Platonic approach
+## 🗣️Platonic approach
 
 ### Why 42 rules ?
 
@@ -267,11 +263,11 @@
 
 ### I want numbers
 
-> No you don't, you want results, you want actually useful products, you want them to work and to solve real problems. This is how you win. It is not possible to be efficient when the people in charge of defining a problem are not the one solving it
+> No you don't. You want results, you want actually useful products, you want them to work and to solve real problems. This is how you win. It is not possible to be efficient when the people in charge of defining a problem are not the one solving it
 
 ### But I need numbers
 
-> Do not confuse between marketing and product. Do not intoxicate yourself with the message you are trying to sell. A product is real, just like value and income, which are the only two numbers you should care about
+> Do not confuse between marketing and product. Do not intoxicate yourself with the message you are trying to sell. A product is real, just like value and income. And these are the only two numbers you should care about
 
 ### Ho I see now, you are just a frustrated engineer wanting to prove something and get more power
 
@@ -279,7 +275,7 @@
 
 ### Yeah right, just one more geek that knows it all and wants to decide ...
 
-> Truth is, doers don't need decision, doers need information, doers need actual knowledge of the real situation. There is no way around it, doers will make choices, and it is on you if you intoxicated them to a point where they only take the bad ones. In practice decisions belongs to the community, not the individual
+> Truth is, doers don't need decision, doers need information, doers need actual knowledge of the real situation. There is no way around it, doers will make choices. It is on you if you intoxicated them to a point where they only take the bad ones. In practice decisions belongs to the community, not the individual
 
 ### Oh, horizontal management, this is not new ...
 
@@ -297,7 +293,7 @@
 
 > Not doing is essentially not owning your shit. That is to unload your own insecurity on people around you, that is pretending instead of being, that is making it impossible for doers to do
 
-### My investor just yielded at me for the whole weekend, do you find it easy ?
+### My investor just shouted at me for the whole weekend, do you find it easy ?
 
 > It is truly not, but this is your shit, own it, turn it into more doing, more do-ability, and those conversations will end up by themselves. The greater mistake would be to destroy instead of create
 
@@ -312,6 +308,3 @@
 ### What does it mean ?
 
 > Epic Win, Epic Loose. Anything in between is just pure loss of time
-
-
-_I am not a think tank, I just think thanks_
