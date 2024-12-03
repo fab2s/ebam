@@ -1,6 +1,6 @@
 ## Rule 1: Innovation cannot be predicted
 
-> Most of the time, one does not find what he searches, nor he searches for what he finds
+> Most of the time, one does not find what he searches for, nor he searches for what he finds
 
 ## Rule 2: Innovation is not a buzzword
 
@@ -8,7 +8,7 @@
 
 ## Rule 3: Innovation can only be walked, not mapped
 
-> Innovation shall come from anywhere, not from somewhere
+> Innovation comes from anywhere, not from somewhere
 
 ## Rule 4: Innovation is a state of mind, not a skill
 
@@ -32,11 +32,11 @@
 
 ## Rule 9: Innovation is found beyond fear
 
-> Put your fears to good use for once, go through them !
+> Put your doubts to good use for once, go through them !
 
 ## Rule 10: Innovation does not fit into any ticket
 
-> We have a user story for that. You know, the same user that does not even exist because we are creating a market
+> We have a user story for that. You know, the same user that does not even exist because we are creating something new
 
 ## Rule 11: Innovation is imagination
 
@@ -203,7 +203,7 @@
 
 ### A bit too simple hey ?
 
-> Simplicity is what comes last, it is the very essence of true complexity
+> Simplicity is what comes last, the very essence of true complexity
 
 ### What ?
 
@@ -231,15 +231,15 @@
 
 ### Seriously though, deadlines, customers, how do you handle that ?
 
-> When you go slower, it's easier to tell when you will arrive, but do you really want to go slower ?
+> When you go slower, it's easier hit deadlines, but do you really want to go slower ?
 
 ### Faster ?
 
-> Doers go faster when they just do. So yes, when you do, you may follow some mid / long term paths that are not immediately felt by managers and customers, but at the end of the day, you go faster by a lot, especially if you actually go toward a solution
+> Doers go faster when they just do. So yes, when you do, you may follow some mid / long term paths that are not immediately felt by managers and customers, but at the end of the day, you go faster by a lot. Especially if you actually go toward a solution
 
 ### But this is not practical !
 
-> In practice, what this means is that, yes, you will lose the exactly on tuesday delivery, but should this occur, it would only be postponed until next week, and if it is not, then it means that no deadline was achievable
+> In practice, what this means is that, yes, you will lose the exactly on tuesday delivery, but should this occur, it should only be postponed until next week, and if it is not, then it means that no deadline was achievable
 
 ### What do I win by letting that happen ?
 
@@ -263,7 +263,7 @@
 
 ### I want numbers
 
-> No you don't. You want results, you want actually useful products, you want them to work and to solve real problems. This is how you win. It is not possible to be efficient when the people in charge of defining a problem are not the one solving it
+> No you don't. You want results. You want actually useful products. You want them to work and to solve real problems. This is how you win. It is not possible to be efficient when the people in charge of defining a problem are not the one solving it
 
 ### But I need numbers
 
@@ -275,7 +275,7 @@
 
 ### Yeah right, just one more geek that knows it all and wants to decide ...
 
-> Truth is, doers don't need decision, doers need information, doers need actual knowledge of the real situation. There is no way around it, doers will make choices. It is on you if you intoxicated them to a point where they only take the bad ones. In practice decisions belongs to the community, not the individual
+> Truth is, doers don't need decision, doers need information, doers need actual knowledge of the real situation. There is no way around it. Doers will make choices. It is on you if you intoxicated them to a point where they only take the bad ones. In practice decisions belongs to the collective, not the individual
 
 ### Oh, horizontal management, this is not new ...
 
@@ -283,19 +283,19 @@
 
 ### That was easy ...
 
-> You cannot imagine how badly a scientist needs a designer, how badly a technician needs a marketer, how badly an organisation needs administrators, how badly every skill is needed in every company. Who built walls in the first place ? Doers ? I don't think so
+> You cannot imagine how badly a scientist needs a designer, how badly a technician needs a marketer, how badly an organisation needs administrators, how badly every skill is needed to actually achieve something. Now who built walls in the first place ? Doers ? I don't think so
 
 ### Wait, are you saying that managers are useless ?
 
-> Quite the opposite, we just need you for what you do, not for anything else. And by doing, I don't necessarily mean baking concrete. Thinking is doing, being kind is doing, owning your shit is doing
+> Quite the opposite. Doers need you for what you do, not for anything else. And by doing, I don't necessarily mean baking concrete. Thinking is doing, being kind is doing, owning your shit is doing
 
 ### What's not then ?
 
-> Not doing is essentially not owning your shit. That is to unload your own insecurity on people around you, that is pretending instead of being, that is making it impossible for doers to do
+> Not doing is essentially not owning your shit. That is to unload your own insecurity on people around you. That is pretending instead of being. That is making it impossible for doers to do
 
 ### My investor just shouted at me for the whole weekend, do you find it easy ?
 
-> It is truly not, but this is your shit, own it, turn it into more doing, more do-ability, and those conversations will end up by themselves. The greater mistake would be to destroy instead of create
+> Truly not. But this is your shit. Own it. Turn it into more doing, more do-ability, and those conversations will end up by themselves. The greater mistake would be to destroy instead of create
 
 ### Okay, but what can I do then ?
 

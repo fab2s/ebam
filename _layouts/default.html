@@ -1,16 +1,29 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en-US">
 <head>
     <meta charset="UTF-8">
+    <title>The Epic By All Means Manifesto</title>
+    <meta property="og:title" content="A set of principles to keep in the innovation toolbox" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="description" content="The Epic By All Means Manifesto. A set of principles to keep in the innovation toolbox" />
+    <meta property="og:description" content="The Epic By All Means Manifesto. A set of principles to keep in the innovation toolbox" />
+    <link rel="canonical" href="https://ebam.dev/" />
+    <meta property="og:url" content="https://ebam.dev/" />
+    <meta property="og:site_name" content="ebam" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="twitter:title" content="The Epic By All Means Manifesto" />
+    <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","description":"The Epic By All Means Manifesto","headline":"A set of principles to keep in the innovation toolbox","name":"ebam","url":"https://ebam.dev/"}
+    </script>
 
-    {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
 <body>
 <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -18,15 +31,18 @@
 <header class="page-header" role="banner">
     <h1 class="project-name">The Epic By All Means Manifesto</h1>
     <h2 class="project-tagline"><em>A set of principles to keep in the innovation toolbox</em></h2>
+    <div style="float: right">
+        <a class="github-button" href="https://github.com/fab2s/ebam" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" aria-label="Star fab2s/ebam on GitHub">Star</a>
+    </div>
 </header>
 
 <main id="content" class="main-content" role="main">
     {{ content }}
 
-    <div style="display: flex; justify-content: flex-end"><em>... I'm not a think tank, I just think thanks</em></div>
+    <div style="display: flex; justify-content: flex-end; margin-top:20px"><em>... I'm not a think tank, I just think thanks</em></div>
     <footer class="site-footer">
         {% if site.github.is_project_page %}
-        <span class="site-footer-owner">The Epic By All Means Manifesto with ❤️ by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        <span class="site-footer-owner"><strong>The Epic By All Means Manifesto</strong> brought to you with ❤️ by <a href="https://github.com/fab2s/ebam">fab2s</a>.</span>
         {% endif %}
     </footer>
 </main>
