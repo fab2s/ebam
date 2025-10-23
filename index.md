@@ -116,7 +116,7 @@
 
 ## Rule 30: Innovation is the opposite of ego
 
-> Don't get fouled by the Post Orgasmic Syndrome
+> Don't get fooled by the Post Orgasmic Syndrome
 
 ## Rule 31: Innovation is not polite
 
@@ -223,7 +223,7 @@
 
 ### But my boss, my investors, what about them ?
 
-> They need to learn not to be in charge, making money should suffice
+> They need to learn to not be in charge, making money should suffice
 
 ### I was about to laugh ...
 
@@ -239,11 +239,11 @@
 
 ### But this is not practical !
 
-> In practice, what this means is that, yes, you will lose the exactly on tuesday delivery, but should this occur, it should only be postponed until next week, and if it is not, then it means that no deadline was achievable
+> In practice, what this means is that, yes, you will lose the exactly "on tuesday" delivery, but should this occur, it should only be postponed until next week, and if it is not, then it means that no deadline was achievable
 
 ### What do I win by letting that happen ?
 
-> From experience your yearly throughput will be at least increased by ten time if you just encourage doers to do.
+> From experience your yearly throughput will be at least increased by ten time if you just encourage doers to do
 
 ### Ten time, really, now you are exaggerating !
 
