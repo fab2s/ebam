@@ -231,7 +231,7 @@
 
 ### Seriously though, deadlines, customers, how do you handle that ?
 
-> When you go slower, it's easier hit deadlines, but do you really want to go slower ?
+> When you go slower, it's easier to hit deadlines, but do you really want to go slower ?
 
 ### Faster ?
 
